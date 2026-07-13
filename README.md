@@ -1,8 +1,8 @@
 # 426-project-thisDotTeamName
 
-Course: COMPSCI 426 - Scalable Web Systems //
-Instructor: Timothy Richards //
-Team Name: thisDotTeamName //
+* Course: COMPSCI 426 - Scalable Web Systems
+* Instructor: Timothy Richards
+* Team Name: thisDotTeamName
 
 ## Team Members
 
