@@ -2,7 +2,7 @@
 
 * Course: COMPSCI 426 - Scalable Web Systems
 * Instructor: Tim Richards
-* Team Name: thisDotTeamName
+* Team/Project Name: ShareCast Theatre Resource
 
 ## Team Members
 
